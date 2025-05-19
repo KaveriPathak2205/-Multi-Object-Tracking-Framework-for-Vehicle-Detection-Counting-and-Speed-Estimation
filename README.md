@@ -45,9 +45,6 @@ Vehicle 3 | Dir: right | Speed: 42.12 km/h
 Vehicle 4 | Dir: left | Speed: 37.45 km/h
 ```
 
-## License
-MIT
-
 ## Future Enhancements
 - Replace simple Kalman with DeepSORT/ByteTrack
 - Integrate dashboard using Streamlit
