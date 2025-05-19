@@ -23,7 +23,7 @@ MHVMS/
     │   └── test_video.mp4
     ├── output/
     │   └── output_video.mp4
-    └── requirements.txt
+    └── zrequirements.txt
 
 ## Run the Pipeline
 ```bash
