@@ -13,17 +13,17 @@ MHVMS is a real-time system for vehicle detection, tracking, counting, and speed
 
 ## Project Structure
 MHVMS/
-├── main.py
-├── detector.py
-├── tracker_module.py
-├── utils/
-│   ├── speed_estimator.py
-│   └── line_logic.py
-├── data/
-│   └── test_video.mp4
-├── output/
-│   └── output_video.mp4
-└── requirements.txt
+    ├── main.py
+    ├── detector.py
+    ├── tracker_module.py
+    ├── utils/
+    │   ├── speed_estimator.py
+    │   └── line_logic.py
+    ├── data/
+    │   └── test_video.mp4
+    ├── output/
+    │   └── output_video.mp4
+    └── requirements.txt
 
 ## Run the Pipeline
 ```bash
